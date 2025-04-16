@@ -175,8 +175,8 @@ const Index = () => {
             description="A full-featured e-commerce site with product catalog, shopping cart, payment integration, and admin dashboard."
             image="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=1974&auto=format&fit=crop"
             tags={["React", "Node.js", "MongoDB", "Stripe"]}
-            githubUrl="https://github.com"
-            liveUrl="https://example.com"
+            githubUrl="https://github.com/timovibes/YatorECommerce"
+            liveUrl="https://yatorcommerceshop.vercel.app/"
           />
           <ProjectCard
             title="Task Management App"
