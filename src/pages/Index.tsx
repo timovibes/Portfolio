@@ -207,8 +207,8 @@ const Index = () => {
             description="A content management system for creating, editing, and publishing blog posts with user authentication."
             image="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=2070&auto=format&fit=crop"
             tags={["Vue.js", "Express", "PostgreSQL"]}
-            githubUrl="https://github.com"
-            liveUrl="https://example.com"
+            githubUrl="https://github.com/timovibes/YatorBlogPlatform"
+            liveUrl="https://yatorblogplatforms.netlify.app"
           />
           <ProjectCard
             title="Fitness Tracker"
