@@ -199,7 +199,8 @@ const Index = () => {
             description="A weather application providing real-time forecasts, location-based weather data, and interactive maps."
             image="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=1965&auto=format&fit=crop"
             tags={["JavaScript", "OpenWeather API", "Chart.js"]}
-            githubUrl="https://github.com"
+            githubUrl="https://github.com/timovibes/YatorWeatherDashboard"
+            liveUrl="https://yatorweatherdashboard.netlify.app"
           />
           <ProjectCard
             title="Blog Platform"
