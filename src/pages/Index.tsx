@@ -241,7 +241,7 @@ const Index = () => {
                   </div>
                   <div>
                     <p className="font-medium">Email</p>
-                    <a href="mailto:hello@johndoe.dev" className="text-foreground/70 hover:text-primary transition-colors">
+                    <a href="mailto:timothyator744@gmail.com" className="text-foreground/70 hover:text-primary transition-colors">
                       timothyator744@gmail.com
                     </a>
                   </div>
@@ -263,11 +263,11 @@ const Index = () => {
               <div>
                 <h4 className="font-medium mb-3">Connect with me</h4>
                 <div className="flex gap-4">
-                  <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+                  <a href="https://github.com/timovibes" target="_blank" rel="noopener noreferrer" 
                     className="bg-secondary hover:bg-primary hover:text-primary-foreground transition-colors p-3 rounded-full">
                     <Github className="h-5 w-5" />
                   </a>
-                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" 
+                  <a href="https://www.linkedin.com/in/timothychepkonga/" target="_blank" rel="noopener noreferrer" 
                     className="bg-secondary hover:bg-primary hover:text-primary-foreground transition-colors p-3 rounded-full">
                     <Linkedin className="h-5 w-5" />
                   </a>
