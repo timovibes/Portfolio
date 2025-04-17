@@ -184,7 +184,7 @@ const Index = () => {
             image="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1955&auto=format&fit=crop"
             tags={["Next.js", "Firebase", "Tailwind CSS"]}
             githubUrl="https://github.com/timovibes/YatorToDo"
-            liveUrl="yatortodoapp.netlify.app"
+            liveUrl="https://yatortodoapp.netlify.app"
           />
           <ProjectCard
             title="Portfolio Website"
