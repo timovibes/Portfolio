@@ -215,7 +215,8 @@ const Index = () => {
             description="An application to track workouts, nutrition, and progress with data visualization and goal setting."
             image="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=2070&auto=format&fit=crop"
             tags={["React Native", "GraphQL", "MongoDB"]}
-            githubUrl="https://github.com"
+            githubUrl="https://github.com/timovibes/YatorFitnessApp"
+            liveUrl="https://yatorfitnessapp.netlify.app"
           />
         </div>
       </Section>
