@@ -191,8 +191,8 @@ const Index = () => {
             description="A personal portfolio showcasing projects, skills, and professional experience with a focus on clean design."
             image="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1969&auto=format&fit=crop"
             tags={["React", "Tailwind CSS", "Framer Motion"]}
-            githubUrl="https://github.com"
-            liveUrl="https://example.com"
+            githubUrl="https://github.com/timovibes/Portfolio"
+            liveUrl="https://timothychepkongaportfoliowebsite.vercel.app/"
           />
           <ProjectCard
             title="Weather Dashboard"
