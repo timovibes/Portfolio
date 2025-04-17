@@ -70,7 +70,7 @@ const Index = () => {
             <h3 className="heading-sm mb-4">Get to know me!</h3>
             <div className="space-y-4 text-foreground/80">
               <p>
-                I'm a <span className="font-semibold text-foreground">Frontend Developer</span> building and designing web applications that lead to the success of the overall product. Check out some of my work in the Projects section.
+                I'm a <span className="font-semibold text-foreground">FullStack Developer</span> building and designing web and android applications that lead to the success of the overall product. Check out some of my work in the Projects section.
               </p>
               <p>
                 I also like sharing content related to the stuff that I've learned over the years in web development so it can help other people in the dev community. Feel free to connect with me on my socials!
